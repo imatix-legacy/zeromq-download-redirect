@@ -3,14 +3,17 @@
 Designed to run as a Python/PostgreSQL "simple hosting" (PAAS)
 service at Gandi:
 
-https://www.gandi.net/hosting/simple?language=python&db=pgsql
-https://wiki.gandi.net/en/simple/instance/python
+* https://www.gandi.net/hosting/simple?language=python&db=pgsql
+
+* https://wiki.gandi.net/en/simple/instance/python
 
 deployed via ssh/git:
 
-https://wiki.gandi.net/en/simple/git
-https://wiki.gandi.net/en/simple/ssh_key
-https://wiki.gandi.net/en/gandi/ssh-keys#deployment_of_the_ssh_key_on_an_instance
+* https://wiki.gandi.net/en/simple/git
+
+* https://wiki.gandi.net/en/simple/ssh_key
+
+* https://wiki.gandi.net/en/gandi/ssh-keys#deployment_of_the_ssh_key_on_an_instance
 
 # Implementation
 
